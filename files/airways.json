@@ -1,0 +1,41 @@
+{
+  "nodes": [
+    {"name": "인천","group": "SD"}
+    , {"name": "서울/김포","group": "SD"}
+    , {"name": "부산/김해","group": "DN"}
+    , {"name": "사천","group": "DN"}
+    , {"name": "울산","group": "DN"}
+    , {"name": "대구","group": "DG"}
+    , {"name": "포항경주","group": "DG"}
+    , {"name": "청주","group": "CC"}
+    , {"name": "광주","group": "HN"}
+    , {"name": "무안","group": "HN"}
+    , {"name": "여수","group": "HN"}
+    , {"name": "군산","group": "HN"}
+    , {"name": "양양","group": "GW"}
+    , {"name": "횡성/원주","group": "GW"}
+    , {"name": "제주","group": "JJ"}    
+  ],
+  "links": [
+    {"source": 14,"target": 7,"value": 1645}
+    , {"source": 14,"target": 3,"value": 26}
+    , {"source": 14,"target": 6,"value": 111}
+    , {"source": 14,"target": 11,"value": 146}
+    , {"source": 14,"target": 8,"value": 943}
+    , {"source": 14,"target": 10,"value": 221}
+    , {"source": 14,"target": 5,"value": 1006}
+    , {"source": 14,"target": 4,"value": 57}
+    , {"source": 14,"target": 13,"value": 104}
+    , {"source": 1,"target": 14,"value": 7026}
+    , {"source": 1,"target": 3,"value": 124}
+    , {"source": 1,"target": 6,"value": 56}
+    , {"source": 1,"target": 8,"value": 122}
+    , {"source": 1,"target": 2,"value": 1674}
+    , {"source": 1,"target": 10,"value": 168}
+    , {"source": 1,"target": 4,"value": 184}
+    , {"source": 0,"target": 14,"value": 25}
+    , {"source": 0,"target": 2,"value": 310}
+    , {"source": 0,"target": 5,"value": 62}
+    , {"source": 2,"target": 14,"value": 1509}    
+  ]
+}
