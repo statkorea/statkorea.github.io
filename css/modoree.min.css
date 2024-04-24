@@ -6,7 +6,3 @@ body {
 section .desc {
   padding: 10px 0px;
 }
-
-.row {
-  --bs-gutter-x: 0;
-}
